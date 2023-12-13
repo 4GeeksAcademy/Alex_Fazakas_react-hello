@@ -1,12 +1,8 @@
+.space {
+  display: flex;
+  justify-content: space-between;
+}
+.navegacion {
+    background: rgb(55, 64, 237);
+}
 
-/* 
-
-    You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
-
-*/
